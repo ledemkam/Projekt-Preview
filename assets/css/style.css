@@ -58,7 +58,7 @@ ul li{
 
 .logo {
 
-    font-size: 35px;
+    font-size: 2,18rem;
     font-family: 'tiem' ;
     
 }
@@ -157,7 +157,7 @@ main > p{
 .texti > h3 {
 
     font-family: 'graMed';
-    font-size: 25px;
+    font-size: 2.5rem;
 
 
 }
@@ -226,7 +226,7 @@ aside{
 
 aside > h1 {
     font-family: 'tiem';
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 aside p {
@@ -281,7 +281,7 @@ footer{
 footer h4{
     padding-top: 50px;
     font-family: 'tiem';
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 footer p{
